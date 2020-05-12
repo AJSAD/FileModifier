@@ -1,5 +1,6 @@
 package FileModifier;
 
+<<<<<<< HEAD
 import java.nio.file.Path;
 import java.util.ArrayList;
 
@@ -15,4 +16,8 @@ public class FileModifier
 		//TODO
 		return true;
 	}
+=======
+public class FileModifier {
+
+>>>>>>> master
 }
