@@ -1,7 +1,6 @@
 package FileOperation;
 
 public class FileOperation {
-<<<<<<< HEAD
 	
 	enum Operation{ OPER1, OPER2 }
 	String referenceText, newText;
@@ -27,7 +26,4 @@ public class FileOperation {
 		//TODO
 	}
 	
-=======
-
->>>>>>> master
 }
